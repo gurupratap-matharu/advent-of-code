@@ -1,0 +1,8 @@
+advent-of-code-data
+black
+colorama
+flake8
+isort
+numpy
+parse
+pytest
