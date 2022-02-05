@@ -1,8 +1,7 @@
 import pathlib
 
-import pytest
-
 import aoc201901 as aoc
+import pytest
 
 PUZZLE_DIR = pathlib.Path(__file__).parent
 
